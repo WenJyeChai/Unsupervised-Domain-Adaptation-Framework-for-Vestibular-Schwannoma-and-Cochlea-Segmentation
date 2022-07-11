@@ -1,0 +1,5 @@
+1. Set up a new virtual environment
+2. Open command prompt
+3. locate command prompt to this directory
+4. run 'pip install -r requirements.txt'
+5. open  the jupyter notebook file : 'Demo_code.ipynb'

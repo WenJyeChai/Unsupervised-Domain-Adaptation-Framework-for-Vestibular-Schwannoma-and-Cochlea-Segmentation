@@ -1,0 +1,6 @@
+nibabel
+numpy
+simpleitk
+matplotlib
+seaborn
+pandas
