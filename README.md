@@ -9,3 +9,8 @@ An improved framework that performs domain adaptation on Vestibular Schwannomas 
    - The validation hrT2 MRI scans with the naming convention of crossmoda_XXX_hrT2.nii.gz should be placed under the directory of 'dataset\raw_dataset\validation_data'
    
    ** Please remove the sample files in those directories before moving them.
+2. Set up a new virtual environment
+3. Open command prompt
+4. locate command prompt to this directory
+5. run 'pip install -r requirements.txt'
+6. open  the jupyter notebook file : 'Demo_code.ipynb'
